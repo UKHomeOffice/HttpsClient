@@ -1,7 +1,7 @@
 # HttpsClient
 
 This repository contains software to test client certificates against a web server with a configured certificate authority.
-The assumption is that you have created an RSA private key (client.key) file and you have had it signed by a certificate authority making a (client.crt) file.
+The assumption is that you have created an RSA private key (client.key) file and you have had a certificate signing request signed by a certificate authority making an x509 certificate (client.crt) file.
 
 ## Build
 
