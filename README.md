@@ -5,8 +5,8 @@ The assumption is that you have created an RSA private key (client.key) file and
 
 ## Build
 
-This program can be built using the makefile provided.  There are commands for building OSX, Linux and Windows versions of the software.  
-Binaries are generated in the bin directory.  This software is built with Go 1.5.  Alternatively you can download the binaries you need from the bin directory.
+This program can be built using the makefile provided.  There are commands for building OSX, Linux and Windows versions of the software.  Binaries are generated in the bin directory.  This software is built with Go 1.5.  
+Alternatively you can download the binaries you need from the bin directory.
 
     // OSX
     make osx
